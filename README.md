@@ -1,0 +1,2 @@
+# newtorails
+newbie to rails
